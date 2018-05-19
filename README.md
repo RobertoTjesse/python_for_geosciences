@@ -1,5 +1,5 @@
-Sentiment/Mirambel/¿... :) ..? - a Water Management Tool Based on Sentinel Data -
-=================================================================================
+A Water Management Tool Based on Sentinel Data 
+===============================================
 
 Using science towards a forwards view approach to water irrigation.
  
